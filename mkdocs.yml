@@ -1,4 +1,4 @@
-site_name: my digital home | jlay.us
+site_name: jlay.us
 plugins:
   - git-revision-date
 nav:
