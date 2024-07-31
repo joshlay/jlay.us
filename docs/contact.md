@@ -1,6 +1,7 @@
 ---
 hide:
   - side_toc
+  - revision_date
 ---
 # about/contact
 
