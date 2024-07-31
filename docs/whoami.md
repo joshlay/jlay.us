@@ -6,11 +6,12 @@ hide:
 
 Hello, friend :) Thank you for visiting my doc/blog experiment.
 
-I'm Josh; a Principal *Site Reliability Engineer*. Previously:
+I'm Josh, a 30-something 'Principal' *Site Reliability Engineer* working from home in _Austin, Texas_.
 
-* Linux Administrator
-* Architect
+I left The Cloud to take advantage of the AI gold rush.
 
-... in the _'Web Hosting'_ and _'Cloud Computing'_ industries.
+Past roles:
 
-I am now working on _'High Performance Compute'_ as part of the AI craze.
+* Linux Administrator/DevOps
+* Systems Architect
+* Stromboli/Pizza/Fry Extraordinaire

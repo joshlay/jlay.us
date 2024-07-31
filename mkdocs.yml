@@ -3,6 +3,7 @@ plugins:
   - git-revision-date
 nav:
   - home: index.md
+  - projects: projects.md
   - about:
     - blog: blog.md
     - contact: contact.md
@@ -13,3 +14,4 @@ theme:
   features:
     - revision.date
     - navigation.top.hide
+    # - navigation.side.toc.hide  # optiong to disable this per-page
