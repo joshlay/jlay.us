@@ -1,0 +1,15 @@
+site_name: my digital home | jlay.us
+plugins:
+  - git-revision-date
+nav:
+  - home: index.md
+  - about:
+    - blog: blog.md
+    - contact: contact.md
+    - whoami: whoami.md
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - revision.date
+    - navigation.top.hide
