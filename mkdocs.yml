@@ -6,8 +6,8 @@ nav:
   - home: index.md
   - projects: projects.md
   - about:
-    - site: site.md
     - contact: contact.md
+    - site: site.md
     - whoami: whoami.md
 theme:
   name: terminal
