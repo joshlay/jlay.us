@@ -1,17 +1,18 @@
 site_name: jlay.us
 plugins:
-  - git-revision-date
+  - git-revision-date-localized
 nav:
   - home: index.md
   - projects: projects.md
   - about:
-    - blog: blog.md
+    - site: site.md
     - contact: contact.md
     - whoami: whoami.md
 theme:
-  name: terminal
-  palette: dark
-  features:
-    - revision.date
-    - navigation.top.hide
-    # - navigation.side.toc.hide  # optiong to disable this per-page
+  name: readthedocs
+#theme:
+#  name: terminal
+#  palette: dark
+#  features:
+#    - revision.date
+#    - navigation.top.hide
