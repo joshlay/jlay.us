@@ -7,7 +7,7 @@ hide:
 
 Hello, friend :) Thank you for visiting this experiment.
 
-I'm *Josh Lay*, a Principal *Site Reliability Engineer* in *Austin, Texas*.
+I'm *Josh*, a Principal *Site Reliability Engineer* in *Austin, Texas*.
 I left *'The Cloud'* to see if where *Transformers* will take us.
 
 Previous work:
