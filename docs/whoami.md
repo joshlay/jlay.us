@@ -5,13 +5,14 @@ hide:
 ---
 # about/whoami
 
-Hello, friend :) Thank you for visiting my doc/blog experiment.
+Hello, friend :) Thank you for visiting this experiment.
 
-I'm Josh, a 30-something 'Principal' *Site Reliability Engineer* working from home in _Austin, Texas_.
+I'm *Josh Lay*, a Principal *Site Reliability Engineer* in *Austin, Texas*.
+I left *'The Cloud'* to see if where *Transformers* will take us.
 
-I left The Cloud to take advantage of the AI gold rush.
+IRC: [Libera Chat](https://libera.chat/), `@jlay`
 
-Past roles:
+Previous work:
 
 * Linux Administrator/DevOps
 * Systems Architect
