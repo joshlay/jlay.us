@@ -5,6 +5,7 @@ hide:
 ---
 # about/contact
 
-* [github](https://github.com/joshlay)
-* [linkedin](https://www.linkedin.com/in/jlay1337/) _(I know...)_
+* [IRC/Libera Chat](https://libera.chat/): `@jlay`
 * [mastodon](https://init3.us/@jlay)
+* [github](https://github.com/joshlay)
+* [linkedin](https://www.linkedin.com/in/jlay1337/) _(yeah, yeah...)_
