@@ -1,6 +1,5 @@
 site_name: jlay.us
 plugins:
-  - search
   - git-revision-date-localized
 nav:
   - home: index.md
