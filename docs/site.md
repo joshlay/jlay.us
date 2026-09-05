@@ -5,5 +5,7 @@ hide:
 ---
 # about/site
 
-* See _footer_ for software and theme references
-* Dual stack _IPv4+6_ in **Ashburn, Virginia** with _Hetzner_
+* Dual-stack IPv4 **and** 6
+* Generator / Theme: see _Footer_
+* 2 CPU, 2GB _Cloud Server_ in **Ashburn, Virginia** with _Hetzner_
+* Modify timestamps provided by `document-dates` [plugin](https://pypi.org/project/mkdocs-document-dates/)
