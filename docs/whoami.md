@@ -16,9 +16,9 @@ I left *'The Cloud'* to see where *Transformers (LLMs)* will take us. In short, 
 
 *Previous* work:
 
-* Linux Administrator/DevOps at *HostGator* and *Rackspace*
-* Systems Architect/SRE at *IBM*
-* Stromboli/Pizza/Fry Extraordinaire at small-town restaurants
+* *Linux Administrator* at `HostGator` and `Rackspace`
+* *SRE* turned *Systems Architect* at `IBM`
+* *Stromboli/Pizza/Fry Extraordinaire* at several small-town restaurants
 
 *Not* work:
 
