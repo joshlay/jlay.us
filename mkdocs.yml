@@ -6,7 +6,6 @@ plugins:
       show_author: false
       exclude:
         - index.md
-        - '*/index.md'
 nav:
   - home: index.md
   - projects: projects.md
