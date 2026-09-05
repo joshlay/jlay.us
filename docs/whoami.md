@@ -5,13 +5,23 @@ hide:
 ---
 # about/whoami
 
-Hello, friend :) Thank you for visiting this experiment.
+Thanks for visiting, I'm *Josh Lay*; another transplant in *Austin, Texas*.
 
-I'm *Josh*, a Principal *Site Reliability Engineer* in *Austin, Texas*.
-I left *'The Cloud'* to see if where *Transformers* will take us.
+I left *'The Cloud'* to see where *Transformers (LLMs)* will take us. In short, disappointment.
 
-Previous work:
+*Current* work:
 
-* Linux Administrator/DevOps
-* Systems Architect
-* Stromboli/Pizza/Fry Extraordinaire
+* Day-to-day: *Principal Member of Technical Staff* at `AMD`
+* Spare-time: hacking on [Fedora](https://fedoraproject.org/)
+
+*Previous* work:
+
+* Linux Administrator/DevOps at *HostGator* and *Rackspace*
+* Systems Architect/SRE at *IBM*
+* Stromboli/Pizza/Fry Extraordinaire at small-town restaurants
+
+*Not* work:
+
+* Skateboarder
+* Drives too fast *(legally, officer)*
+* Pushing 40
