@@ -22,6 +22,6 @@ I left *'The Cloud'* to see where *Transformers (LLMs)* will take us. In short, 
 
 *Not* work:
 
-* Skateboarder
-* Drives too fast *(legally, officer)*
+* Skateboarding
+* Driving too fast *(legally, officer)*
 * Pushing 40
