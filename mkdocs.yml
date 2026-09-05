@@ -1,6 +1,12 @@
 site_name: jlay.us
 plugins:
-  - git-revision-date-localized
+  - document-dates:
+      position: bottom
+      show_created: false
+      show_author: false
+      exclude:
+        - index.md
+        - '*/index.md'
 nav:
   - home: index.md
   - projects: projects.md
@@ -12,5 +18,4 @@ theme:
   name: terminal
   palette: dark
   features:
-    - revision.date
     - navigation.top.hide
