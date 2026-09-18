@@ -15,6 +15,7 @@ nav:
     - whoami: whoami.md
 theme:
   name: terminal
+  custom_dir: overrides
   palette: dark
   features:
     - navigation.top.hide
