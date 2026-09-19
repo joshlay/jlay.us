@@ -5,14 +5,14 @@ hide:
 ---
 # about/whoami
 
-I left *'The Cloud'* to see where ~~Transformers~~ LLMs would go.  
+I left *'The Cloud'* to see where <del>Transformers</del> LLMs would go.  
 In short: disappointment.
 
 *Current* work:
 
-*Principal Member of Technical Staff* at `AMD`
+*Principal Member of Technical Staff* at `AMD`.  
 **F**ocus: **d**eployment tools/services for **e**verything, including
-~~Sales Recovery~~ Site Reliability Engineering.
+<del>Sales Recovery</del> *Site Reliability* Engineering.
 
 *Previous* work:
 
@@ -26,4 +26,5 @@ In short: disappointment.
 * often melting in *Austin, Texas*
 * enjoys Skateboards and driving too fast *(legally, officer)*
 
-Thanks for visiting, happy hacking.
+Thanks for visiting, happy hacking.  
+*- Josh*
