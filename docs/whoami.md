@@ -12,12 +12,14 @@ I left *'The Cloud'* to see where *Transformers (LLMs)* will take us. In short, 
 *Current* work:
 
 * Day-to-day: *Principal Member of Technical Staff* at `AMD`
+  * **F**ocusing on **d**eployment tools/services for **e**verything
+  * ~~Sales Recovery~~ Site Reliability Engineering
 * Spare-time: hacking on [Fedora](https://fedoraproject.org/)
 
 *Previous* work:
 
+* *SRE* -> *Systems Architect* at `IBM`
 * *Linux Administrator* at `HostGator` and `Rackspace`
-* *SRE* turned *Systems Architect* at `IBM`
 * *Stromboli/Pizza/Fry Extraordinaire* at several small-town restaurants
 
 *Not* work:
